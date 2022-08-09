@@ -1,13 +1,13 @@
 {
   "baseURL": "https://hello.world",
-  "author": "hello.world",
-  "description": "hello.world - Venture Capital",
-  "title": "hello.world - Venture Capital",
+  "author": "feyti",
+  "description": "feyti-pv",
+  "title": "feyti.pv - pharmacovigilence",
   "language": "en",
   "social": [
     {
       "title": "Twitter",
-      "url": "https://twitter.com/#"
+      "url": "https://twitter.com/mfeyti"
     },
     {
       "title": "LinkedIn",
